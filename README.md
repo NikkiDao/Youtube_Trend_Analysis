@@ -1,6 +1,6 @@
 
 
-<img align="left" src="Images_Youtube/Title_Picture.png" width="800" />
+<img align="left" src="Images_Youtube/Title_Picture.png" width="1000" />
 
 
 
