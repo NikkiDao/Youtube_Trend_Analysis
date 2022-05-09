@@ -1,6 +1,6 @@
 
 
-<img align="left" src="Youtube_Trends/Images_Youtube/Title_Picture.png" width="800" />
+<img align="left" src="Images_Youtube/Title_Picture.png" width="800" />
 
 
 
@@ -30,7 +30,7 @@
 
 To test the theory, we performed the Pearsons correlation coefficient test, to find what our R will be. Our sample data is US data, from 2020-2022, on Youtube Platform. In our findings, we found a strong correlation between view count and user interactions, consist with number of likes, dislikes, and comment counts.
 
-<img align="center" src="Youtube_Trends/Images_Youtube/Correlation_US.png" width="600" />
+<img align="center" src="Images_Youtube/Correlation_US.png" width="600" />
   
 This heatmap shows that there is a very strong positive correlation with view count and number of likes, while there is a moderate correlation between view_count and dislikes/comment_count
 
@@ -45,18 +45,18 @@ Based on Pearson correlation values:
 
 
 
-<img align="center" src="Youtube_Trends/Images_Youtube/View_and_Interactions_US.png" width="500" />
+<img align="center" src="Images_Youtube/View_and_Interactions_US.png" width="500" />
 
 However, in this scatter splot, we found that at a certain point, as the view counts continues to increase, the user interactions suddendly dropped significantly. With this finding we reject the hypothesis of having higher views will result in higher user interactions, which leads to trending list. 
 
 To take it even further, we applied the same method with the data of 10 countries (United States, Canada, Germany, France, Great Brittain, India, Japan, South Korea,Mexico, Russia), which we did find similar results as US sample data. 
 
-<img align="center" src="Youtube_Trends/Images_Youtube/Correlation_WorldWide.png" width="600" />
+<img align="center" src="Images_Youtube/Correlation_WorldWide.png" width="600" />
 
 We can see that all ten countries does have strong correlation between View Counts and nunber of likes. There is an interesting find of India having number of dislikes misrepresented in the data. But without seeing this data in a timelapse format, it's hard to determine if a particular variable is the cause of the other.
 
 
-<img align="center" src="Youtube_Trends/Images_Youtube/View_and_Interactions_WW.png" width="500" />
+<img align="center" src="Images_Youtube/View_and_Interactions_WW.png" width="500" />
 
 This world wide scatter plot demontrates similar trends with US data. This evidence allows us to reject the hypothesis. However, it begs the questions of once the video became trending, does it acquire a new set of viewers that doesn’t like to leave interactions. Or does Youtube algorithm changes after a video became trending? Or is there other determining factors we did not include, such as subscriber count, advertisement friendly content, etc..? 
 
