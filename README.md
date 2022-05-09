@@ -8,16 +8,12 @@
   ***
   
   A trend is defined as the overall direction of a market during a specified period of time. We use this comparative method to research and gather data in order to predict future movements, based on what can be observed in the past. Trending analysis can help spot new trends by looking at past patterns, and also helps us understand the current state of our operations.
-<ul>
-     <li>	In this project, we are utilizing popular social media platforms such as YouTube to explore video trends and user behaviors to analyze certain factors would determine a trend. </li>
+
+  In this project, we are utilizing popular social media platforms such as YouTube to explore video trends and user behaviors to analyze certain factors would determine a trend.
  
-</ul>
 
 # Questions Addressed:  Will number of the views, likes, dislikes, and comments determines the trend?
- ***
-
-
-
+ 
 
 #### Hypothesis:
  
@@ -62,5 +58,5 @@ This world wide scatter plot demontrates similar trends with US data. This evide
 
 # Conclusion:
 ***
--  Youtube is a reputable platform for mostly Music and Entertainment categories. Youtube public dataset is very detailed allow users to go deep in historical data. The higher number of view count does not correlated with the number of user interactions (comment counts, likes, dislikes), and it certainly is not the main factor to make a trend. 
+Youtube is a reputable platform for mostly Music and Entertainment categories. Youtube public dataset is very detailed allow users to go deep in historical data. The higher number of view count does not correlated with the number of user interactions (comment counts, likes, dislikes), and it certainly is not the main factor to make a trend. 
 
